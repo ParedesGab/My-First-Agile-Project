@@ -1,11 +1,13 @@
 ---
-name: "# Acceptance Criteria"
+name: Acceptance Criteria
 about: This is the Acceptance Criteria template
 title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: ''
 
 ---
+
+## Acceptance Criteria:
 
 * Acceptance Criteria 1:
 *  Acceptance Criteria 2:
